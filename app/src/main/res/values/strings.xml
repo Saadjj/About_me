@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="myName">Ilev Andrei</string>
+    <string name="yellow_star">Yellow</string>
+    <string name="bio">Hi, my name is Andrei.
+        \n\nI love running.
+        \n\n Now I,m living in St.Petersburg.
+        \n\n bla-bla
+        \n\n bla-bla-bla
+        \n\n bla-bla-bla-bla
+        \n\n bla-bla-bla-bla-bal
+        \n\n bla-bla-bla-bla-bal-bla
+        \n\n and a bit more bla-bla-bla-bla-bal-bla
+        \n\n and a bit more bla-bla-bla-bla-bal-bla-1
+        \n\n and a bit more bla-bla-bla-bla-bal-bla-2
+        \n\n and a bit more bla-bla-bla-bla-bal-bla-3
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
